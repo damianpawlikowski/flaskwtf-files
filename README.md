@@ -51,5 +51,5 @@ python -m pytest tests
 
 ## Installation via PIP
 ```
-Not yet available. Coming soon.
+Not yet available. Comming soon.
 ```
